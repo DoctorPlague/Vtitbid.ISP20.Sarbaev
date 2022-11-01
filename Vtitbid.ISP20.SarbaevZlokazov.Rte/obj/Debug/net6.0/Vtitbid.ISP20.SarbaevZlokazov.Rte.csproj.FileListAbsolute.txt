@@ -1,0 +1,15 @@
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\bin\Debug\net6.0\Vtitbid.ISP20.SarbaevZlokazov.Rte.exe
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\bin\Debug\net6.0\Vtitbid.ISP20.SarbaevZlokazov.Rte.deps.json
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\bin\Debug\net6.0\Vtitbid.ISP20.SarbaevZlokazov.Rte.runtimeconfig.json
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\bin\Debug\net6.0\Vtitbid.ISP20.SarbaevZlokazov.Rte.dll
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\bin\Debug\net6.0\Vtitbid.ISP20.SarbaevZlokazov.Rte.pdb
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.SarbaevZlokazov.Rte.csproj.AssemblyReference.cache
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.SarbaevZlokazov.Rte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.SarbaevZlokazov.Rte.AssemblyInfoInputs.cache
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.SarbaevZlokazov.Rte.AssemblyInfo.cs
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.SarbaevZlokazov.Rte.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.SarbaevZlokazov.Rte.dll
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\refint\Vtitbid.ISP20.SarbaevZlokazov.Rte.dll
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.SarbaevZlokazov.Rte.pdb
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.SarbaevZlokazov.Rte.genruntimeconfig.cache
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.SarbaevZlokazov.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\ref\Vtitbid.ISP20.SarbaevZlokazov.Rte.dll

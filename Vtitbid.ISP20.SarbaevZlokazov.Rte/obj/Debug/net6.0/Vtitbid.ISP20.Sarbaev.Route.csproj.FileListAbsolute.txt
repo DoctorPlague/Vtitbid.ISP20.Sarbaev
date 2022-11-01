@@ -1,0 +1,15 @@
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Route.exe
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Route.deps.json
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Route.runtimeconfig.json
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Route.dll
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Route.pdb
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Route.csproj.AssemblyReference.cache
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Route.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Route.AssemblyInfoInputs.cache
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Route.AssemblyInfo.cs
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Route.csproj.CoreCompileInputs.cache
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Route.dll
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\refint\Vtitbid.ISP20.Sarbaev.Route.dll
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Route.pdb
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Route.genruntimeconfig.cache
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Rte\obj\Debug\net6.0\ref\Vtitbid.ISP20.Sarbaev.Route.dll

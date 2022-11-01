@@ -1,0 +1,15 @@
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Zod.exe
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Zod.deps.json
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Zod.runtimeconfig.json
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Zod.dll
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Zod.pdb
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Zod.csproj.AssemblyReference.cache
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Zod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Zod.AssemblyInfoInputs.cache
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Zod.AssemblyInfo.cs
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Zod.csproj.CoreCompileInputs.cache
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Zod.dll
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\obj\Debug\net6.0\refint\Vtitbid.ISP20.Sarbaev.Zod.dll
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Zod.pdb
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Zod.genruntimeconfig.cache
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Zod\obj\Debug\net6.0\ref\Vtitbid.ISP20.Sarbaev.Zod.dll

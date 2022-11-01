@@ -1,0 +1,15 @@
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Student.exe
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Student.deps.json
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Student.runtimeconfig.json
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Student.dll
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Student.pdb
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Student.csproj.AssemblyReference.cache
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Student.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Student.AssemblyInfoInputs.cache
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Student.AssemblyInfo.cs
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Student.csproj.CoreCompileInputs.cache
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Student.dll
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\obj\Debug\net6.0\refint\Vtitbid.ISP20.Sarbaev.Student.dll
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Student.pdb
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Student.genruntimeconfig.cache
+E:\Vtitbid.ISP20.SarbaevZlokazov.Project\Vtitbid.ISP20.SarbaevZlokazov.Std\obj\Debug\net6.0\ref\Vtitbid.ISP20.Sarbaev.Student.dll

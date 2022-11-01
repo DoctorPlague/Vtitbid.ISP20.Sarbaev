@@ -1,0 +1,15 @@
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Note.exe
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Note.deps.json
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Note.runtimeconfig.json
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Note.dll
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\bin\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Note.pdb
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Note.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Note.AssemblyInfoInputs.cache
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Note.AssemblyInfo.cs
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Note.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Note.dll
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\obj\Debug\net6.0\refint\Vtitbid.ISP20.Sarbaev.Note.dll
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Note.pdb
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\obj\Debug\net6.0\Vtitbid.ISP20.Sarbaev.Note.genruntimeconfig.cache
+C:\Users\point\Documents\GitHub\Vtitbid.ISP20.Sarbaev.Projects\Vtitbid.ISP20.SarbaevZlokazov.Project\obj\Debug\net6.0\ref\Vtitbid.ISP20.Sarbaev.Note.dll
